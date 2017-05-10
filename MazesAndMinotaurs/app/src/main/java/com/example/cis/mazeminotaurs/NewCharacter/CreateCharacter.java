@@ -48,6 +48,8 @@ public class CreateCharacter extends Fragment {
 
 
 
+
+
         return rootView;
     }
 
