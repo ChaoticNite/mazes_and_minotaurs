@@ -57,6 +57,11 @@
             </LinearLayout>
 
 
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:orientation="horizontal">
+            </LinearLayout>
 
             <TextView
                 android:id="@+id/attributes_title_view"
